@@ -20,8 +20,8 @@
 
 #define ALPHA 0.001
 
-const char* ssid = "Alvarinho";
-const char* password = "123456789";
+const char* ssid = "IMEON-IMEON-88911122050112";
+const char* password = "BonjourImeon";
 
 // Set web server port number to 80
 WiFiServer server(80);
